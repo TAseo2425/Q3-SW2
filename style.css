@@ -1,0 +1,27 @@
+img{
+	width: 200px;
+}
+.row{
+	border-style: dotted;
+	border-radius: 15px;
+	padding: 15px;
+	margin-left: 100px;
+	margin-right: 100px;
+	text-align: center;
+}
+body{
+	text-align: center;
+	width: 60%;
+	margin: auto;
+	margin-top: 80px;
+	background-color: #6290c8;
+	color: #1d3461;
+}
+#whole{
+	background-color: #b9d6f2;
+	padding: 30px;
+	border-radius: 3%;
+}
+form{
+	padding: 15px;
+}
